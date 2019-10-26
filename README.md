@@ -10,3 +10,7 @@ O seguinte projeto tem por finalidade fazer uma implementação de ponta a ponta
 ## Diagrama de Classe
 
 <img src="readme/diagrama_de_classe.JPG" alt="Diagrama de Classe" width="500" height="300" />
+
+## Tarefas
+
+-   Adicionar campo de concluido (status) em cada item da tarefa
