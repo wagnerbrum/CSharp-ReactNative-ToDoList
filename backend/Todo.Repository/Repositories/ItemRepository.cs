@@ -23,7 +23,8 @@ namespace Todo.Repository.Repositories
 
         public IEnumerable<Item> Get()
         {
-            return context.Items.Include(x => x.todo).ToList().OrderBy(x => x.id);
+            // return context.Items.Include(x => x.todo).ToList().OrderBy(x => x.id);
+            return context.Items.ToList().OrderBy(x => x.id);
         }
 
         public void Insert(Item item)
