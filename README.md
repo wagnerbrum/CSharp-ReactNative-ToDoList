@@ -14,20 +14,20 @@ O seguinte projeto tem por finalidade fazer uma implementação de ponta a ponta
 ## Telas Protótipo
 
 <p align="center">
-    <img src="readme/versao1.0tela1.1" alt="Telas" width="200" height="400"/>
+    <img src="readme/versao1.0tela1.1.png" alt="Telas" width="200" height="400"/>
 </p>
 
 <p align="center">
-    <img src="readme/versao1.0tela2.1" alt="Telas" width="200" height="400"/>
+    <img src="readme/versao1.0tela2.1.png" alt="Telas" width="200" height="400"/>
 </p>
 
 <p align="center">
-    <img src="readme/versao1.0tela3.1" alt="Telas" width="200" height="400"/>
-    <img src="readme/versao1.0tela3.2" alt="Telas" width="200" height="400"/>
-    <img src="readme/versao1.0tela3.3" alt="Telas" width="200" height="400"/>
-    <img src="readme/versao1.0tela3.4" alt="Telas" width="200" height="400"/>
+    <img src="readme/versao1.0tela3.1.png" alt="Telas" width="200" height="400"/>
+    <img src="readme/versao1.0tela3.2.png" alt="Telas" width="200" height="400"/>
+    <img src="readme/versao1.0tela3.3.png" alt="Telas" width="200" height="400"/>
+    <img src="readme/versao1.0tela3.4.png" alt="Telas" width="200" height="400"/>
 </p>
 
 <p align="center">
-    <img src="readme/versao1.0tela4.1" alt="Telas" width="200" height="400"/>
+    <img src="readme/versao1.0tela4.1.png" alt="Telas" width="200" height="400"/>
 </p>
